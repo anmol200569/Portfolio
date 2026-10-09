@@ -6,9 +6,11 @@ Built with modern web technologies, featuring a dark charcoal aesthetic, restrai
 
 ## 🚀 Live Demo & Deployment
 
+* **Live Portfolio**: [https://temporary-turbo-plateau-ihu4ssa.vercel.app](https://temporary-turbo-plateau-ihu4ssa.vercel.app)
 * **Target Repository**: [anmol200569/Portfolio](https://github.com/anmol200569/Portfolio)
 * **Framework**: React 19 + TypeScript + Vite + Tailwind CSS v4
-* **Deployment Target**: Vercel (Auto-detected via `vercel.json`)
+* **Deployment Target**: Vercel (Auto-configured via `vercel.json`)
+* **Vercel Claim Link**: [Claim Deployment to Personal Account](https://vercel.com/claim-deployment?code=5a084898-cb74-4301-86fe-52da23d02631)
 
 ## 🛠️ Tech Stack
 
